@@ -7,6 +7,6 @@ Analysis of  ConsotoRetail Sales
 
 Main report named " FiscalSell" is a matrix report shows sales on Category and Year level,
 then drilldown to Subcategory and Quarter Level. 
-In addition, this main report also links to a detail report named "SubreportforFiscalSell
+In addition, this main report also links to a detail report named "SubreportforFiscalSell"
 
 
